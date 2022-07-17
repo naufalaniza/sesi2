@@ -1497,8 +1497,7 @@ p.form-message.success, p.form-message.error {
 .footer_shape_mid_r {
   position: absolute;
   bottom: 15em;
-  right: 0px;
-  z-index: -1; }
+  right: 0px;}
   @media all and (max-width: 991px) {
     .footer_shape_mid_r {
       bottom: 10rem;}
