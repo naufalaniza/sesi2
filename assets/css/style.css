@@ -1504,7 +1504,7 @@ p.form-message.success, p.form-message.error {
   }
 .footer_shape_mid_r img {
     width: 500%;
-    opacity: 0.2; }
+    opacity: 0.2;}
 
 
 .footer_widget .footer_title img {
@@ -2063,6 +2063,10 @@ box-sizing: border-box;
   box-shadow: 1px 2px 3px #ddd;
   border-radius: 10px;
   box-sizing: border-box;
+}
+
+.gallery_content a {
+  z-index: 1;
 }
    
   
